@@ -45,6 +45,9 @@ public class ballcontroller : MonoBehaviour
         
         SceneManager.LoadScene(currentSceneIndex);
     }
+
+
+   
 }
 
 
